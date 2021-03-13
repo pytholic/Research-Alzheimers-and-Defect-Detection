@@ -1,4 +1,4 @@
-Work done during my time at Opto-Electro Structural Lab (OESL) KAIST from September 2019 to August 2020.
+Work done during my time at Opto-Electro Structural Lab (OESL), KAIST from September 2019 to August 2020.
 
 Description:
 
