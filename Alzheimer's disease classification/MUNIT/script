@@ -1,0 +1,2 @@
+python3 test.py --config configs/PGGAN2Real.yaml --input inputs --output_folder outputs --checkpoint outputs/PGGAN2Real/checkpoints/gen_00000100.pt --a2b 1
+
