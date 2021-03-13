@@ -1,0 +1,24 @@
+{
+    "root": "/home/trojan/Desktop/dimentia/contrastive learning",
+    "program": "<python with no main file>",
+    "startedAt": "2021-02-10T03:37:18.670150",
+    "host": "trojan",
+    "username": "trojan",
+    "executable": "/usr/bin/python3",
+    "os": "Linux-5.4.0-65-generic-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.6.9",
+    "gpu": "GeForce GTX 1080 Ti",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": "10.1.105",
+    "args": [
+        "-f",
+        "/home/trojan/.local/share/jupyter/runtime/kernel-86b2ebf0-3faf-4cf7-a3b8-d2439f419b8e.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "supervised-contrastive-crctd",
+    "project": "dementia",
+    "heartbeatAt": "2021-02-10T03:45:24.973507"
+}
