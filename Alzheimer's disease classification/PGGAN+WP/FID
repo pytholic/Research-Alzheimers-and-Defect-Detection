@@ -1,0 +1,1 @@
+python3 -m pytorch_fid ./dataset_AD/AD ./images_AD
